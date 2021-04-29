@@ -19,7 +19,7 @@ main {
     min-height: calc(100vh - 8em);
 }
 footer {
-    height: 5em;
+    height: 3em;
     color: white;
     background-color: black;
     text-align: center;
