@@ -22,6 +22,7 @@ footer {
     height: 5em;
     color: white;
     background-color: black;
+    text-align: center;
 }
 
 .navbar-inverse{
@@ -40,17 +41,17 @@ h2{text-align: center;
  img{ display: block;
             margin-left: auto;
             margin-right: auto;
-          }
+    }
 
-          p, ol   { display: block;
+  p, ol{ display: block;
             margin-left: 250px;
             margin-right: 200px; 
             color: #000000;font-family: 'Niconne', cursive;
             font-size: 25px;
-          }
+    }
 
-          form {display: block;
-            margin-left: 780px;
+  form {display: block;
+            margin-left: 550px;
             margin-right: 200px; 
             color: #f79308;font-family: 'Niconne', cursive;
             font-size: 15px;}
