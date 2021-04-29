@@ -19,7 +19,9 @@ main {
     min-height: calc(100vh - 8em);
 }
 footer {
-    height: 1em;
+    height: 5em;
+    color: white;
+    background-color: black;
 }
 
 .navbar-inverse{
@@ -30,3 +32,26 @@ footer {
 .navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a {
     color: inherit;
 }
+h1{text-align: center; 
+    color: #f79308;font-family: 'Niconne', cursive;} 
+h2{text-align: center; 
+        color: #000000;font-family: 'Niconne', cursive;} 
+
+ img{ display: block;
+            margin-left: auto;
+            margin-right: auto;
+          }
+
+          p, ol   { display: block;
+            margin-left: 250px;
+            margin-right: 200px; 
+            color: #000000;font-family: 'Niconne', cursive;
+            font-size: 25px;
+          }
+
+          form {display: block;
+            margin-left: 780px;
+            margin-right: 200px; 
+            color: #f79308;font-family: 'Niconne', cursive;
+            font-size: 15px;}
+            button {color: #f79308;font-family: 'Niconne', cursive;}
